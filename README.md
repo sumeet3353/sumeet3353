@@ -1,4 +1,4 @@
-#sumeet pandey
+
 <h1 align="center">Hi 👋, I'm Sumeet Pandey</h1>
 <center><img alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeet3353&label=Profile%20views&color=0e75b6&style=flat" alt="sumeet3353" /> </p>
